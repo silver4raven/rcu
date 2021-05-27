@@ -6,4 +6,4 @@ window.customOptions = {
     customTVID: '1234',  // '4351',
 }
 
-window.themeColors = {primary: '#f26522', background: '#000000', font: '#888888', fontB:'#000000', }
+window.themeColors = {primary: 'red', background: '#000000', font: '#888888', fontB:'#000000', }
